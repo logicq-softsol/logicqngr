@@ -11,3 +11,4 @@ Dashboard/Profile creation.
 Configure rule on streaming data and batch data.
 Create knowledges base for specifice type data
 Json base Rule engine.
+MAchine learning and predictive analysis
